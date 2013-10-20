@@ -1,0 +1,12 @@
+echo '-------------------------------------------'
+echo '-------------------------------------------'
+echo 'auto wifi calibration on first boot'
+echo '-------------------------------------------'
+echo 'auto wifi calibration on first boot'
+echo '-------------------------------------------'
+echo 'auto wifi calibration on first boot'
+echo '-------------------------------------------'
+echo 'auto wifi calibration on first boot'
+echo '-------------------------------------------'
+echo '-------------------------------------------'
+mv /system/etc/init.d/09wifi.sh /system/etc/
