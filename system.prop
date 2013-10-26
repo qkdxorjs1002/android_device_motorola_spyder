@@ -184,3 +184,5 @@ ro.telephony.ril.v3=writeaidonly,usevoicetechfordata
 # Vold switchability uncomment second line to swap
 ro.vold.switchablepair=/storage/sdcard0,/storage/sdcard1
 #persist.sys.vold.switchexternal=1
+
+ro.product.use_charge_counter=1
